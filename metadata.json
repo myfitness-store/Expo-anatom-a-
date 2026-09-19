@@ -1,0 +1,6 @@
+{
+  "name": "Anatomía del Hombro - Guía Clínica y Estudio",
+  "description": "Herramienta interactiva de anatomía del hombro con explorador óseo, tabla de músculos del manguito rotador, flashcards y cuestionario clínico.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
